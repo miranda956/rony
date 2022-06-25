@@ -9,7 +9,7 @@
     "album-art": "^2.0.2",
     "axios": "^0.19.2",
     "moment": "^2.26.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-moment": "^0.9.7",
